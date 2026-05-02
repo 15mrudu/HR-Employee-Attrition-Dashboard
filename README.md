@@ -1,5 +1,7 @@
 #  📊 HR Attrition Analysis Dashboard
 This project presents an interactive HR analytics dashboard built using Tableau Public to analyze employee attrition patterns and identify key factors contributing to workforce turnover. 
+<img width="1757" height="671" alt="image" src="https://github.com/user-attachments/assets/c80beb75-31db-4da5-83f4-ca5aa566f3a4" />
+
 
 ## 🔗 Live Dashboard
 
